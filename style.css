@@ -63,4 +63,5 @@ body{
 .crossed{
     color: grey;
     text-decoration: line-through;
+    cursor:default;
 }
